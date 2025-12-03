@@ -1,2 +1,3 @@
-# qummra-releases
-qumra releases
+# Qumra Releases
+
+Public repository for Qumra releases
